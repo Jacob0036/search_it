@@ -4,3 +4,4 @@ Umfangreiche Volltextsuche für REDAXO 5 CMS. Durchsucht Artikel, Medien, Dateie
 // clarify the control flow
 // drop an unused branch
 // drop an unused branch
+// guard against empty input
