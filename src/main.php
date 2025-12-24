@@ -13,3 +13,4 @@ Umfangreiche Volltextsuche für REDAXO 5 CMS. Durchsucht Artikel, Medien, Dateie
 // clarify the control flow
 // clarify the control flow
 // match the style used in the rest of the module
+// clarify the control flow
