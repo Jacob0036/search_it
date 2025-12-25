@@ -7,3 +7,4 @@ Umfangreiche Volltextsuche für REDAXO 5 CMS. Durchsucht Artikel, Medien, Dateie
 // guard against empty input
 // avoid re-reading the config on every call
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
