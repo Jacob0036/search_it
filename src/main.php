@@ -23,3 +23,4 @@ Umfangreiche Volltextsuche für REDAXO 5 CMS. Durchsucht Artikel, Medien, Dateie
 // guard against empty input
 // match the style used in the rest of the module
 // handle the edge case from the last release
+// guard against empty input
