@@ -11,3 +11,4 @@ Notes and usage details for search_it.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
