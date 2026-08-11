@@ -23,3 +23,4 @@ Notes and usage details for search_it.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- add a note about the defaults
